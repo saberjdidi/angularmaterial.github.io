@@ -1,0 +1,23 @@
+{
+    "HOME": {
+      "LIST": "Elenco dei pazienti",  
+      "TITLE": "aggiungi il paziente",
+      "SELECT": "Change language",
+      "name":"Nome",
+      "lname":"Conome",
+      "address":"Indirizzo",
+      "phone":"Telefono",
+      "age":"Età",
+      "date":"Data",
+      "sexe":"Sesso",
+      "add":"aggiungere",
+      "h":"Uomo",
+      "f":"Donna",
+      "update":"Modifica Paziente",
+      "delete":"Sei sicuro di cancellare questo paziente ?",
+      "gestion":"Gestione del paziente",
+      "catalog":"Aggiungi indirizzo",
+      "upcatalog":"Modifica indirizzo",
+      "search":"ricerca"
+    }
+  }

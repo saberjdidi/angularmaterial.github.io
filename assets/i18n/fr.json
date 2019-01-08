@@ -1,0 +1,23 @@
+{
+    "HOME": {
+      "LIST": "Liste des Patients",
+      "TITLE": "Ajouter Patient",
+      "SELECT": "Changer la langue",
+      "name":"Nom",
+      "lname":"Prénom",
+      "address":"Adresse",
+      "phone":"Telephone",
+      "age":"Age",
+      "date":"Date",
+      "sexe":"Sexe",
+      "add":"ajouter",
+      "h":"Homme",
+      "f":"Femme",
+      "update":"Modifier Patient",
+      "delete":"Êtes-vous sûr de vouloir supprimer ce patient ?",
+      "gestion":"Gestion de patient",
+      "catalog":"Ajouter adresse",
+      "upcatalog":"Modifier adresse",
+      "search":"recherche"
+    }
+  }

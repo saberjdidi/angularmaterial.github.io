@@ -1,0 +1,24 @@
+{
+    "HOME": {
+      "LIST": "List of Patients",
+      "TITLE": "Add Patient",
+      "SELECT": "Change language",
+      "name":"Name",
+      "lname":"Last name",
+      "address":"Address",
+      "phone":"Phone",
+      "age":"Age",
+      "date":"Date",
+      "sexe":"Sex",
+      "add":"add",
+      "h":"Male",
+      "f":"Female",
+      "update":"Update Patient",
+      "delete":"Are you sure to delete this Patient ?",
+      "gestion":"Patient management",
+      "catalog":"Add address",
+      "upcatalog":"Update Address",
+      "search":"search"
+
+    }
+  }
